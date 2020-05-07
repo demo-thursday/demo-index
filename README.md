@@ -9,7 +9,7 @@ Here you can find the list of demos and when they were performed.  You can also 
 | April 16, 2020 | [GitOps on OpenShift with Kustomize and Argo CD](https://github.com/demo-thursday/gitops-kustomize-argocd)       |
 | April 23, 2020 | [CI/CD on OpenShift with Jenkins, SonarQube, and Nexus](https://github.com/demo-thursday/cicd-openshift-jenkins) |
 | April 30, 2020 | No demo. Red Hat Summit!                                                                                         |
-| May 7, 2020    | OpenShift Serverless - Knative Serving                                                                           |
+| May 7, 2020    | [OpenShift Serverless - Knative Serving](https://github.com/demo-thursday/openshift-serverless-knative-serving)                                                                           |
 
 
 ## Demo Ideas
