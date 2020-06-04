@@ -11,10 +11,12 @@ Here you can find the list of demos and when they were performed.  You can also 
 | April 30, 2020 | No demo. Red Hat Summit!                                                                                         |
 | May 7, 2020    | [OpenShift Serverless - Knative Serving](https://github.com/demo-thursday/openshift-serverless-knative-serving)                                                                           |
 | May 21, 2020   | [OpenShift Pipelines - Tekton: Diving into the Tech Preview](https://github.com/demo-thursday/openshift-pipelines-tekton) |
+| June 4, 2020.  | [Reactive Architectures with Quarkus and Karkfa](https://github.com/demo-thursday/quarkus-kafka-tekton) |
 
 
 ## Demo Ideas
 
-* Quarkus - [Supersonic Subatomic Java](https://quarkus.io/)
-* OpenShift Pipelines / Tekton - [OpenShift Pipelines](https://www.openshift.com/learn/topics/pipelines)
-* Event Streaming with AMQ Streams (Kafka)
+* AI/ML with OpenDataHub? (probably with a special guest)
+* OpenShift Virtualization (previously Container Native Virtualization - KubeVirt)
+* Deeper dive on CodeReady Workspaces (Eclipse Che)
+* ???
