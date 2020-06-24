@@ -12,7 +12,7 @@ Here you can find the list of demos and when they were performed.  You can also 
 | May 7, 2020    | [OpenShift Serverless - Knative Serving](https://github.com/demo-thursday/openshift-serverless-knative-serving)                                                                           |
 | May 21, 2020   | [OpenShift Pipelines - Tekton: Diving into the Tech Preview](https://github.com/demo-thursday/openshift-pipelines-tekton) |
 | June 4, 2020   | [Reactive Architectures with Quarkus and Kafka](https://github.com/demo-thursday/quarkus-kafka-tekton) |
-| June 18, 2020  | Change Data Capture with Debezium? |
+| June 18, 2020  | [CodeReady Workspaces Deep Dive](https://developers.redhat.com/products/codeready-workspaces/overview) |
 | July 2, 2020   | TBD (suggestions welcome) |
 
 ## Demo Ideas
