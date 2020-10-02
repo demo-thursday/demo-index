@@ -18,7 +18,7 @@ Here you can find the list of demos and when they were performed.  You can also 
 | July 30, 2020   | Red Hat Advanced Cluster Management for Kubernetes: Guest Presenter - [Gerald Nunn](https://github.com/gnunn1). |
 | August 13, 2020 | Change Data Capture with Debezium and Kafka - Part 1 |
 | September 10, 2020 | Migrating Container Workloads between OpenShift Clusters (and data centres) using the Container Application Migration Tool. |
-| September 24, 2020 | [Native Azure Service Integration with OpenShift with the Azure Service Operator](https://github.com/demo-thursday/azure-service-operator) |
+| September 24, 2020 | [Native Azure Service Integration in OpenShift with the Azure Service Operator](https://github.com/demo-thursday/azure-service-operator) |
 
 ## Demo Ideas
 
