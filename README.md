@@ -19,6 +19,8 @@ Here you can find the list of demos and when they were performed.  You can also 
 | August 13, 2020 | Change Data Capture with Debezium and Kafka - Part 1 |
 | September 10, 2020 | Migrating Container Workloads between OpenShift Clusters (and data centres) using the Container Application Migration Tool. |
 | September 24, 2020 | [Native Azure Service Integration in OpenShift with the Azure Service Operator](https://github.com/demo-thursday/azure-service-operator) |
+| October 22, 2020 | GitOps on OpenShift - Part 2: Advanced Topics and Argo CD Improvements |
+
 
 ## Demo Ideas
 
